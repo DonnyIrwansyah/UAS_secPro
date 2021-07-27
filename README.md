@@ -1,4 +1,3 @@
-# SimpleCRUD for Code Review
+# UAS SECURE PROGRAMMING
 
-user : admin\
-pass : admin
+SELASA, 27 JULI 2021
